@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     cout<<"OPEARTOR LOGIKA"<<endl;
-    cout<<"Terdiri dari &&,!,||"<<endl;
+    cout<<"\nTerdiri dari &&,!,||"<<endl;
     cout<<"A = 3,B = 5"<<endl;
 
     int a = 3;
