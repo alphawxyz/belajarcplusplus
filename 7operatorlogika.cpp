@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"OPEARTOR RASIONAL"<<endl;
+    cout<<"OPEARTOR LOGIKA"<<endl;
     cout<<"Terdiri dari &&,!,||"<<endl;
     cout<<"A = 3,B = 5"<<endl;
 
