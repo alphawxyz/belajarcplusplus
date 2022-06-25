@@ -7,7 +7,7 @@ int main()
     a = 8;
     b = 10;
     cout<<"OPERATOR ARITMATIKA"<<endl;
-    cout<<"Terdiri dari + - * / % ++ --"<<endl;
+    cout<<"\nTerdiri dari + - * / % ++ --"<<endl;
     cout<<"A = 8, B = 10"<<endl;
     c = a+b; 
     cout<<"\nA + B    : "<<c<<endl;
