@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"OPERATOR ARITMATIKA,RASIONAL,LOGIKA"<<endl;
+    cout<<"OPERATOR ARITMATIKA,RASIONAL,LOGIKA,ASSIGNMENT"<<endl;
     cout<<"\nOPERATOR ARITMATIKA"<<endl;
     cout<<"Terdiri dari +,-,*,/,%,++,--"<<endl;
     cout<<"A = 3,B = 4";
