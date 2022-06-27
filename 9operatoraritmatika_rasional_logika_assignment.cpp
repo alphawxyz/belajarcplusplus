@@ -56,6 +56,25 @@ int main()
     cout<<"!(G&&h)  : "<<i<<endl;
     i = g||h;
     cout<<"G||H     : "<<i<<endl;
+    
+    cout<<"\nOPERATOR ASSIGNMENT"<<endl;
+    cout<<"Terdiri dari =,+=,-=,*=,/=,%="<<endl;
+    cout<<"A = 26"<<endl;
+    int a = 26;
+    int c;
+    c = a;
+    cout<<"A =  : "<<c<<endl;
+    c += a;
+    cout<<"C+=A : "<<c<<endl;
+    c -= a;
+    cout<<"C-=A : "<<c<<endl;
+    c *= a;
+    cout<<"C*=A : "<<c<<endl;
+    c /= a;
+    cout<<"C/=  : "<<c<<endl;
+    c = 200;
+    c %= a;
+    cout<<"C%=A : "<<c<<endl;
 
     return 0;
 }
