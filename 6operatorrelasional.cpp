@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Operator Rasional"<<endl;
+    cout<<"Operator Relasional"<<endl;
     cout<<"A = 5 B = 7"<<endl;
     cout<<"0 : Salah, 1 : Benar"<<endl;
 
