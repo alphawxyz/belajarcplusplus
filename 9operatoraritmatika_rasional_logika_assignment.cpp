@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"OPERATOR ARITMATIKA,RASIONAL,LOGIKA,ASSIGNMENT"<<endl;
+    cout<<"OPERATOR ARITMATIKA,RELASIONAL,LOGIKA,ASSIGNMENT"<<endl;
     cout<<"\nOPERATOR ARITMATIKA"<<endl;
     cout<<"Terdiri dari +,-,*,/,%,++,--"<<endl;
     cout<<"A = 3,B = 4";
@@ -25,7 +25,7 @@ int main()
     c = a--;
     cout<<"A--  : "<<c<<endl;
 
-    cout<<"\nOPERATOR RASIONAL"<<endl;
+    cout<<"\nOPERATOR RELASIONAL"<<endl;
     cout<<"Terdiri dari ==,!=,<,>,<=,>="<<endl;
     cout<<"D = 5,E = 6"<<endl;
     int d = 5;
@@ -63,18 +63,18 @@ int main()
     int a = 26;
     int c;
     c = a;
-    cout<<"A =  : "<<c<<endl;
+    cout<<"A =      : "<<c<<endl;
     c += a;
-    cout<<"C+=A : "<<c<<endl;
+    cout<<"C+=A     : "<<c<<endl;
     c -= a;
-    cout<<"C-=A : "<<c<<endl;
+    cout<<"C-=A     : "<<c<<endl;
     c *= a;
-    cout<<"C*=A : "<<c<<endl;
+    cout<<"C*=A     : "<<c<<endl;
     c /= a;
-    cout<<"C/=  : "<<c<<endl;
+    cout<<"C/=      : "<<c<<endl;
     c = 200;
     c %= a;
-    cout<<"C%=A : "<<c<<endl;
+    cout<<"C%=A     : "<<c<<endl;
 
     return 0;
 }
