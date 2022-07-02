@@ -1,23 +1,26 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 int main()
 {
-    cout<<"Perulangan Bersarang"<<endl;
-    cout<<"While Bersarang"<<endl;
-    int a,b = 10;
+    cout<<"Perulangan While"<<endl;
+    cout<<"\nContoh 1"<<endl;
 
+    int a = 10;
+    
     while (a < 20)
-    {
-    while (b < 18)
     {
         cout<<"Nilai A  : "<<a<<endl;
         a++;
     }
+
+    cout<<"\nContoh 2"<<endl;
+    int b = 12;
+    while (b < 15)
+    {
         cout<<"Nilai B  : "<<b<<endl;
         b++;
     }
-
-    return 0;
     
+    return 0;
 }
